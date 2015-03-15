@@ -1,0 +1,94 @@
+What’s New
+
+Version 2.6 (March 14, 2015):
+
+	▪	Update Clover 3195
+	▪	Update Chameleon 2632
+	▪	Update Clover Configurator 4.22.5
+	▪	Update CloverThemeManager 
+	▪	Update cDock
+	▪	Optimised Cache updates 
+    ▪   Major Updates fix 
+	▪	Minor bugs fix and Optimizations
+
+    
+
+Version 2.5 (March 14, 2015):
+
+	▪	Update Clover 3193
+	▪	Update Chameleon 2615
+	▪	Update Clover Configurator 4.22.5
+	▪	Update CloverThemeManager 0.76.0
+	▪	Update cDock
+	▪	Update Elan & FocalTech Touchpad v4.2
+	▪	Update AtherosE2200 Ethernet v1.0.1
+	▪	Add Darwin Dumper v2.9.8
+	▪	Add HD4600 QE/CI patch
+	▪	Add Realtek USB Adapters Kext
+	▪	Add Mouse Acceleration
+	▪	Add SmoothMouse
+	▪	Add AppleHDA AIO Patch
+	▪	Add VIA AppleHDA patch
+	▪	Fix bug with FakeSMC installation
+	▪	Minor bugs fix and Optimizations
+
+
+
+Version 2.4 (February 15, 2015):
+
+	▪	Update Clover 3183
+	▪	Update Clover Configurator 4.22.4
+	▪	Update CloverThemeManager 
+	▪	Update cDock
+	▪	Add HD4400 Full QE/CI Patch
+	▪	Add HDAEnablers for Layout ID inject 1,2,3,5,7,9,12,28
+	▪	Add Reset AppleHDA
+	▪	Add Radeon HD 6xxx Series Patch
+	▪	Add Radeon R9 270 Series Patch
+	▪	Add ATY Injector  AMD 2xxx, 3xxx, 4xxx, 5xxx, 6xxx. R9 200x
+	▪	Minor bugs fix and Optimizations
+
+
+Version 2.3 (February 7, 2015):
+
+	▪	Update Clover 3163
+	▪	Update Chameleon 2570
+	▪	Update RealtekRTL8111 1.2.3 optimised version of AndyVindijick
+	▪	Update MediaTek N USB kext 
+	▪	Update Elan Touchpad, BTFirmwareUploader and ASUSFnKeys Kexts
+	▪	Update cDock 7.0.2
+	▪	Update Clover Configurator 4.22.2
+	▪	Update CloverThemeManager 
+	▪	Update AppleHDA Codec to v2
+	▪	Add EAPD Jack Sense Fix
+	▪	Add Chameleon to install in ESP
+	▪	Add AppleHDA IDT 7675, ADI and VIA 1802 Codec
+	▪	Minor bugs fix and Optimizations
+
+Version 2.2 (February 1 2015):
+
+	▪	Update Clover 3153
+	▪	Update Chameleon 2549
+	▪	Update Clover Configurator 4.22.1
+	▪	Update SSDTPrgen 15.7
+	▪	Update AppleHDA Patch
+	▪	Update FakeSMC 1364 
+	▪	Update Realtek Ethernet, Atheros Ethernet, BroadCom Ethernet, Intel Ethernet and all kexts 
+	▪	Add Clover ThemeManager
+	▪	Add Trim Enabler
+	▪	Add Desktop Utility 
+	▪	Add cDock
+	▪	Add Kext Wizard
+	▪	Add HackStore
+	▪	Add Laptop HibernateMode
+	▪	Add FakeSMC v3.4.1 Slice Branch
+	▪	Add AppleHDA Codec
+	▪	Add IOBlockStorageInjector.kext
+	▪	Add Chameleon Modules
+	▪	Add VoodooTSCSync.kext 4, 6 and 8 core CPU
+	▪	other improvements and Bugfixes
+	▪	Reworked Code for better installation
+	▪	Improved UI and Installation process
+	▪	Major Updates fix and Optimizations
+
+
