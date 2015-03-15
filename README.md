@@ -4,9 +4,10 @@
 
 The Ultimate All-in-One Post-Installation Utility for Hackintosh
 
-The tool is created by :
+#The tool is created by :
 
 - Deepak
+
 ![Macpois0n](https://insanelydeepak.files.wordpress.com/2015/02/macpois0n-yosemite.png)
 ![Macpois0n](https://insanelydeepak.files.wordpress.com/2015/02/drivers.png)
 ![Macpois0n](https://insanelydeepak.files.wordpress.com/2015/02/fixes.png)
@@ -54,4 +55,4 @@ Slice -For his support in  Clover boot loader.
 
 Micky1979 - For his support in Chameleon Bootloader.
                    
-    !!!Enjoy Happy Hackintoshing!!!
+    #!!!Enjoy Happy Hackintoshing!!!
