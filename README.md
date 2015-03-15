@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/insanelydeepak/MacPois0n-Yosemite/blob/master/icon.png)
-#MacPois0n Yosemite::
+#MacPois0n Yosemite:::
 
 The Ultimate All-in-One Post-Installation Utility for Hackintosh
 
@@ -17,14 +17,15 @@ The Ultimate All-in-One Post-Installation Utility for Hackintosh
 
 [MacPois0n Yosemite](https://insanelydeepak.wordpress.com/category/macpois0n/)
 
+#Contact and Support :
 
-   Support email: Insanelydeepak@gmail.com
+Email: Insanelydeepak@gmail.com
 
-  Facebook : [Insanelydeepak Page](https://www.facebook.com/insanelydeepak)
+Facebook : [Insanelydeepak Page](https://www.facebook.com/insanelydeepak)
 
-  Website : [InsanelyDeepak Blog](https://insanelydeepak.wordpress.com)
+Website : [InsanelyDeepak Blog](https://insanelydeepak.wordpress.com)
 
-  Twitter :[@insanelydeepak](https://twitter.com/insanelydeepak)
+Twitter :[@insanelydeepak](https://twitter.com/insanelydeepak)
 
 
 
