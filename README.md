@@ -1,5 +1,5 @@
 
-!(https://github.com/insanelydeepak/MacPois0n-Yosemite/blob/master/icon.png)
+![logo](https://github.com/insanelydeepak/MacPois0n-Yosemite/blob/master/icon.png)
 #MacPois0n Yosemite::
 
 The Ultimate All-in-One Post-Installation Utility for Hackintosh
