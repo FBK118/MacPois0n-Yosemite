@@ -13,20 +13,19 @@ The Ultimate All-in-One Post-Installation Utility for Hackintosh
 ![Macpois0n](https://insanelydeepak.files.wordpress.com/2015/02/fixes.png)
 ![Macpois0n](https://insanelydeepak.files.wordpress.com/2015/02/hackintoshtools.png)
 
-##Main Project is Here :
+##Main Project is Starts Here :
 
 [MacPois0n Yosemite](https://insanelydeepak.wordpress.com/category/macpois0n/)
 
-Support email: Insanelydeepak@gamil.com
 
-Facebook : [Insanelydeepak Page](https://www.facebook.com/insanelydeepak)
+   Support email: Insanelydeepak@gmail.com
 
-Website : [InsanelyDeepak Blog](https://insanelydeepak.wordpress.com)
+  Facebook : [Insanelydeepak Page](https://www.facebook.com/insanelydeepak)
 
-Twitter :[@insanelydeepak](https://twitter.com/insanelydeepak)
+  Website : [InsanelyDeepak Blog](https://insanelydeepak.wordpress.com)
 
-The tool is based on :
-Bitbucket Hackintosh Vietnam Tool
+  Twitter :[@insanelydeepak](https://twitter.com/insanelydeepak)
+
 
 
 #Credits:
@@ -55,4 +54,4 @@ Slice -For his support in  Clover boot loader.
 
 Micky1979 - For his support in Chameleon Bootloader.
                    
-    #!!!Enjoy Happy Hackintoshing!!!
+###!!!Enjoy Happy Hackintoshing!!!
