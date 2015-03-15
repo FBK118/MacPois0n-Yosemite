@@ -1,53 +1,39 @@
-MacPois0n Yosemite::
 
-The Extreme AIO Post-Installation Utility for Hackintosh
+!(https://github.com/insanelydeepak/MacPois0n-Yosemite/blob/master/icon.png)
+#MacPois0n Yosemite::
+
+The Ultimate All-in-One Post-Installation Utility for Hackintosh
 
 The tool is created by :
 
 - Deepak
 
-Main Project is Here :
+##Main Project is Here :
 
-MacPois0n Yosemite 
+[MacPois0n Yosemite](https://insanelydeepak.wordpress.com/category/macpois0n/)
 
 Support email: Insanelydeepak@gamil.com
 
-Facebook : Insanelydeepak
+Facebook : [Insanelydeepak Page](https://www.facebook.com/insanelydeepak)
 
-Website : InsanelyDeepak Blog
+Website : [InsanelyDeepak Blog](https://insanelydeepak.wordpress.com)
 
-Twitter :@insanelydeepak
+Twitter :[@insanelydeepak](https://twitter.com/insanelydeepak)
 
 The tool is based on :
 Bitbucket Hackintosh Vietnam Tool
 
 
-Credits:
+#Credits:
 
 To all amazing developers who coded these awesome stuff :
                                  
-Developers :
-Pokenguyen, Niresh, Deepak, Micky1979, 
-
-RehabMan, bpedman, EMlyDinEsH, RevoGirl 
-
- PikeRAlpha,SJ_UnderWater, Zenith432 ,Mieze,
-
- mac4mat, cVaD, kpkp,BigDonkey and Blackosx
-
-philip_petev,bcc9, janek202, kozlek, netkas, slice
-
-navi , el coniglio, xZeneu LLC, Toleda, meklort, AnV, 
-
-ErmaC ,Mirone, Olarila, Kabyl, usr-sse2, jadran, , dmazar, 
-
-STLVNUB, pcj, apianti, JrCs, pene, FrodoKenny, skoczy, 
-
-ycr.ru, Oscar09, xsmile, SoThOr, crazybirdy,
-
+#Developers :
+Pokenguyen, Niresh, Deepak, Micky1979, RehabMan, bpedman, EMlyDinEsH, RevoGirl PikeRAlpha,SJ_UnderWater, Zenith432
+Mieze,mac4mat, cVaD, kpkp,BigDonkey and Blackosx philip_petev,bcc9, janek202, kozlek, netkas, slice, navi,Toleda elconiglio, xZeneu LLC,meklort, AnV, ErmaC ,Mirone, Olarila, Kabyl, usr-sse2, jadran, , dmazar, STLVNUB, pcj, apianti, JrCs, pene, FrodoKenny, skoczy,ycr.ru, Oscar09, xsmile, SoThOr, crazybirdy,
 Clover bootloader and Chameleon bootloader Team.
 
-Special thanks to:
+#Special thanks to:
 
 Niresh - For an awesome website and his support and help in creating this utility. 
 
@@ -64,4 +50,4 @@ Slice -For his support in  Clover boot loader.
 
 Micky1979 - For his support in Chameleon Bootloader.
                    
-     !!!Happy Hackintoshing !!!
+    !!!Enjoy Happy Hackintoshing!!!
