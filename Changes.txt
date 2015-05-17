@@ -1,17 +1,88 @@
 What’s New
+Version 2.9 (May 17, 2015):
+	▪	Update Clover 3207
+        ▪       Updatre Chameleon 2686
+        ▪	Update cDock v7.3
+        ▪       Update EasyKext Installer v1.4
+        ▪	Update Fast Task 2
+        ▪	Update IDT 76D1,76D9,76DF,7605,7603 Codecs
+        ▪       Update EAPDFix kext
+        ▪       Update BTFirmwareUploader Kext
+        ▪       Update FnKeysAsus kext
+        ▪       Add IDT 7608,IDT 7603,IDT 7675 Codecs
+        ▪       Add AsusAcpiBacklightPanel kext
+        ▪       Add Fake PCIID_IntelHD4600/HD4400
+        ▪       Add Fake PCIID_Intel HDMI
+        ▪       Add Fake PCIID_AR9280
+        ▪       Add Fake PCIID_BCMBCM94352Z & BCM57XX
+        ▪       Fix Clover UEFI Installation
+        ▪       Fix Sound issue for 10.10.3
+        ▪       Fixed many Bugs
+        ▪       Major Updates fix and Optimizations
+        ▪       Some code optimizations
 
-Version 2.6 (March 14, 2015):
+
+
+Version 2.8(April 26, 2015):
+	▪	Update Clover 3202
+	▪	Updatre Chameleon 2658
+	▪	Update AtherE200Ethernet Kext v2.0
+	▪	Update IntelMausi Ethernet v2.0
+	▪	Update Clover Configurator 4.22.9
+	▪	Update CloverThemeManager v0.76.1 update id 14
+	▪	Add SmartTouchPad Driver for Elan ,FocalTech and Synaptic Touchpads
+	▪	Add EayKextInstaller v1.2
+	▪	Add Please Sleep 
+	▪	Add Hex Patcher
+	▪	Add FastTask 2
+	▪	Add App Fixer
+	▪	Fixed many Bugs
+	▪	Major Updates fix fand Optimizations
+
+Version 2.9 (March 31, 2015):
+
+	▪	Update Clover 3195
+	▪	Update Chameleon 2632
+	▪	Add  IDT 7605 AIO Patch
+        ▪       Major Updates fix 
+	▪	Minor bugs fix and Optimizations
+
+
+Version 2.8 (March 17, 2015):
+
+	▪	Update Clover 3195
+	▪	Update Chameleon 2632
+	▪	Update Clover Configurator 4.22.5
+	▪	Update CloverThemeManager 
+	▪	Update Clover Mode
+	▪       Update IntelMausi kext
+ 	▪	Optimised Cache updates 
+        ▪       Major Updates fix 
+	▪	Minor bugs fix and Optimizations
+
+Version 2.7 (March 17, 2015):
 
 	▪	Update Clover 3195
 	▪	Update Chameleon 2632
 	▪	Update Clover Configurator 4.22.5
 	▪	Update CloverThemeManager 
 	▪	Update cDock
+	▪       Update ALC269 AIO Audio
+        ▪       Add Clover Mode app by chris1111
+        ▪       Add Orange Icon fix Patch
 	▪	Optimised Cache updates 
-    ▪   Major Updates fix 
+        ▪       Major Updates fix 
 	▪	Minor bugs fix and Optimizations
 
-    
+Version 2.6 (March 17, 2015):
+       ▪     Update Clover 3195
+       ▪     Update Chameleon 2632
+       ▪     Update Clover Configurator 4.22.5
+       ▪     Update CloverThemeManager
+       ▪     Update cDock
+       ▪     Optimised Cache updates
+       ▪     Major Updates fix
+       ▪     Minor bugs fix and Optimizations
 
 Version 2.5 (March 14, 2015):
 
