@@ -17,24 +17,13 @@ The Ultimate All-in-One Post-Installation Utility for Hackintosh
 
 [MacPois0n Yosemite](https://insanelydeepak.wordpress.com/category/macpois0n/)
 
-#Contact and Support :
-
-Email: Insanelydeepak@gmail.com
-
-Facebook : [Insanelydeepak Page](https://www.facebook.com/insanelydeepak)
-
-Website : [InsanelyDeepak Blog](https://insanelydeepak.wordpress.com)
-
-Twitter :[@insanelydeepak](https://twitter.com/insanelydeepak)
-
-
 
 #Credits:
 
 To all amazing developers who coded these awesome stuff :
                                  
 #Developers :
-Pokenguyen, Niresh, Deepak, Micky1979, RehabMan, bpedman, EMlyDinEsH, RevoGirl PikeRAlpha,SJ_UnderWater, Zenith432
+Pokenguyen,  Deepak, Micky1979, RehabMan, bpedman, EMlyDinEsH, RevoGirl PikeRAlpha,SJ_UnderWater, Zenith432
 Mieze,mac4mat, cVaD, kpkp,BigDonkey and Blackosx philip_petev,bcc9, janek202, kozlek, netkas, slice, navi,Toleda elconiglio, xZeneu LLC,meklort, AnV, ErmaC ,Mirone, Olarila, Kabyl, usr-sse2, jadran, , dmazar, STLVNUB, pcj, apianti, JrCs, pene, FrodoKenny, skoczy,ycr.ru, Oscar09, xsmile, SoThOr, crazybirdy,
 Clover bootloader and Chameleon bootloader Team.
 
